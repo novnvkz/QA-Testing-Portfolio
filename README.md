@@ -3,25 +3,50 @@
 Содержание портфолио
 
 1. Работа с командной строкой
-3. Работа с базами данных
+
+   Решения задач в рамках учебного курса по работе с командной строкой
+   https://github.com/novnvkz/QA-Testing-Portfolio/tree/main/CommandLine
+
+2. Работа с базами данных
+
    MySQL:
 
-    MongoDB:
+   Решения задач в рамках учебного курса по SQL
+   https://github.com/novnvkz/QA-Testing-Portfolio/tree/main/Databases
+
+   MongoDB:
+   
+   Решения задач в рамках учебного курса по MongoDB
+   https://github.com/novnvkz/QA-Testing-Portfolio/tree/main/Databases
 
 3. Тестирование веб-приложений
+
    Demoshopping:
 
-    Отчеты о дефектах
+   Тестовые артефакты в рамках работы над учебным сайтом Demoshopping.ru
 
-    Тест-кейсы
+   Отчеты о дефектах:
+   https://github.com/novnvkz/QA-Testing-Portfolio/tree/main/WebTesting/Demoshopping/DefectReports
 
-    Чек-листы
+   Тест-кейсы:
+   https://github.com/novnvkz/QA-Testing-Portfolio/tree/main/WebTesting/Demoshopping/TestCases
+
+   Чек-листы:
+   https://github.com/novnvkz/QA-Testing-Portfolio/tree/main/WebTesting/Demoshopping/CheckLists
+
+   Тестирование API:
+   https://github.com/novnvkz/QA-Testing-Portfolio/tree/main/WebTesting/Demoshopping/Postman
 
 4. Тестирование мобильных приложений
    ShoppingList:
 
-    Чек-листы
+   Тестовые артефакты в рамках работы над учебным мобильным приложением Demoshopping.ru
 
-    Тест-кейсы
+   Чек-листы:
+   https://github.com/novnvkz/QA-Testing-Portfolio/tree/main/MobileTesting/ShoppingList/CheckLists
 
-    Отчеты о дефектах
+   Тест-кейсы:
+   https://github.com/novnvkz/QA-Testing-Portfolio/tree/main/MobileTesting/ShoppingList/TestCases
+
+   Отчеты о дефектах:
+   https://github.com/novnvkz/QA-Testing-Portfolio/tree/main/MobileTesting/ShoppingList/DefectReports
