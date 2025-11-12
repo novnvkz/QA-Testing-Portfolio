@@ -37,7 +37,11 @@
    Тестирование API:
    https://github.com/novnvkz/QA-Testing-Portfolio/tree/main/WebTesting/Demoshopping/Postman
 
-4. Тестирование мобильных приложений
+   Бетта-Банк!
+   Отчеты о дефектах:
+   https://github.com/novnvkz/QA-Testing-Portfolio/tree/main/WebTesting/Betta_Bank/DefectReports
+
+5. Тестирование мобильных приложений
    ShoppingList:
 
    Тестовые артефакты в рамках работы над учебным мобильным приложением Demoshopping.ru
