@@ -37,7 +37,8 @@
    Тестирование API:
    https://github.com/novnvkz/QA-Testing-Portfolio/tree/main/WebTesting/Demoshopping/Postman
 
-   Бетта-Банк!
+   Бетта-Банк!:
+   
    Отчеты о дефектах:
    https://github.com/novnvkz/QA-Testing-Portfolio/tree/main/WebTesting/Betta_Bank/DefectReports
 
